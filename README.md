@@ -12,5 +12,5 @@ UML Diagram of Simple Factory
 
 ### 2. Factory Method
 
-
+![FactoryMethodDP.drawio.png](uml%2FFactoryMethodDP.drawio.png)
 
