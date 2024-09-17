@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Reference for Abstract Factory Method
+//https://refactoring.guru/design-patterns/abstract-factory
 public class Client {
 
     public static void main(String args[]){

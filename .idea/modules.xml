@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AbstractFactoryDP/AbstractFactoryDP.iml" filepath="$PROJECT_DIR$/AbstractFactoryDP/AbstractFactoryDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethodDP/FactoryMethodDP.iml" filepath="$PROJECT_DIR$/FactoryMethodDP/FactoryMethodDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactoryDP/FurnitureExample/FurnitureExample.iml" filepath="$PROJECT_DIR$/AbstractFactoryDP/FurnitureExample/FurnitureExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactoryDP/SimpleFactoryDP.iml" filepath="$PROJECT_DIR$/SimpleFactoryDP/SimpleFactoryDP.iml" />
     </modules>
   </component>
