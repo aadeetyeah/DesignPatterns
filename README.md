@@ -14,3 +14,7 @@ UML Diagram of Simple Factory
 
 ![FactoryMethodDP.drawio.png](uml%2FFactoryMethodDP.drawio.png)
 
+### 3. Abstract Factory
+
+![AdapterFactoryDP.drawio (1).png](uml%2FAdapterFactoryDP.drawio%20%281%29.png)
+
