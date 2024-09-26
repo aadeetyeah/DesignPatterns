@@ -18,3 +18,7 @@ UML Diagram of Simple Factory
 
 ![AdapterFactoryDP.drawio (1).png](uml%2FAdapterFactoryDP.drawio%20%281%29.png)
 
+### 4. Builder 
+
+
+![BuilderDP.drawio.png](uml%2FBuilderDP.drawio.png)
