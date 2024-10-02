@@ -22,3 +22,7 @@ UML Diagram of Simple Factory
 
 
 ![BuilderDP.drawio.png](uml%2FBuilderDP.drawio.png)
+
+### 5. Prototype
+
+![PrototypeDP.drawio.png](uml%2FPrototypeDP.drawio.png)
