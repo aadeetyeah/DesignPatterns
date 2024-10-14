@@ -1,5 +1,7 @@
 # DesignPatterns
 
+### **A. Creational Design Patterns**
+
 ### 1. **Simple Factory**
 
 When to use Simple Factory Design Pattern?
@@ -26,3 +28,7 @@ UML Diagram of Simple Factory
 ### 5. Prototype
 
 ![PrototypeDP.drawio.png](uml%2FPrototypeDP.drawio.png)
+
+### 6. Singleton
+
+![SingletonDP.drawio.png](uml%2FSingletonDP.drawio.png)
