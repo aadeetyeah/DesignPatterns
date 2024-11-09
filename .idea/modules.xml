@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethodDP/FactoryMethodDP.iml" filepath="$PROJECT_DIR$/FactoryMethodDP/FactoryMethodDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/AbstractFactoryDP/FurnitureExample/FurnitureExample.iml" filepath="$PROJECT_DIR$/AbstractFactoryDP/FurnitureExample/FurnitureExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObserverDP/ObserverDP.iml" filepath="$PROJECT_DIR$/ObserverDP/ObserverDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrototypeDP/PrototypeDP.iml" filepath="$PROJECT_DIR$/PrototypeDP/PrototypeDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactoryDP/SimpleFactoryDP.iml" filepath="$PROJECT_DIR$/SimpleFactoryDP/SimpleFactoryDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonDP/SingletonDP.iml" filepath="$PROJECT_DIR$/SingletonDP/SingletonDP.iml" />
