@@ -32,3 +32,7 @@ UML Diagram of Simple Factory
 ### 6. Singleton
 
 ![SingletonDP.drawio.png](uml%2FSingletonDP.drawio.png)
+
+### 7. Observer
+
+![ObserverDP.drawio.png](uml%2FObserverDP.drawio.png)
