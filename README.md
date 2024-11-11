@@ -1,6 +1,6 @@
 # DesignPatterns
 
-### **A. Creational Design Patterns**
+## **A. Creational Design Patterns**
 
 ### 1. **Simple Factory**
 
@@ -33,6 +33,10 @@ UML Diagram of Simple Factory
 
 ![SingletonDP.drawio.png](uml%2FSingletonDP.drawio.png)
 
+## B. Behavioral Design Patterns
+
 ### 7. Observer
 
 ![ObserverDP.drawio.png](uml%2FObserverDP.drawio.png)
+
+### 8. lectureexample.Command
