@@ -39,4 +39,6 @@ UML Diagram of Simple Factory
 
 ![ObserverDP.drawio.png](uml%2FObserverDP.drawio.png)
 
-### 8. lectureexample.Command
+### 8. Command
+
+![CommandDP.drawio.png](uml%2FCommandDP.drawio.png)
