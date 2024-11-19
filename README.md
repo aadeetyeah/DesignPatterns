@@ -46,3 +46,7 @@ UML Diagram of Simple Factory
 ### 9. Chain of Responsibility
 
 ![ChainOfResponsibilityDP.drawio.png](uml%2FChainOfResponsibilityDP.drawio.png)
+
+### 10. Strategy
+
+![StrategyDP.drawio.png](uml%2FStrategyDP.drawio.png)
