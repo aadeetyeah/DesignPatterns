@@ -50,3 +50,7 @@ UML Diagram of Simple Factory
 ### 10. Strategy
 
 ![StrategyDP.drawio.png](uml%2FStrategyDP.drawio.png)
+
+### 11. Template
+
+### 12. Iterator

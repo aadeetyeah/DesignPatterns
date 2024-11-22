@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/SimpleFactoryDP/SimpleFactoryDP.iml" filepath="$PROJECT_DIR$/SimpleFactoryDP/SimpleFactoryDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonDP/SingletonDP.iml" filepath="$PROJECT_DIR$/SingletonDP/SingletonDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrategyDP/StrategyDP.iml" filepath="$PROJECT_DIR$/StrategyDP/StrategyDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateDP/TemplateDP.iml" filepath="$PROJECT_DIR$/TemplateDP/TemplateDP.iml" />
     </modules>
   </component>
 </project>
