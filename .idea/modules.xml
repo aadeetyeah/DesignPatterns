@@ -3,14 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstractFactoryDP/AbstractFactoryDP.iml" filepath="$PROJECT_DIR$/AbstractFactoryDP/AbstractFactoryDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdapterDP/AdapterDP.iml" filepath="$PROJECT_DIR$/AdapterDP/AdapterDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderDP/BuilderDP.iml" filepath="$PROJECT_DIR$/BuilderDP/BuilderDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderDP/BuilderWithChainingDP/BuilderWithChainingDP.iml" filepath="$PROJECT_DIR$/BuilderDP/BuilderWithChainingDP/BuilderWithChainingDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibilityDP/ChainOfResponsibilityDP.iml" filepath="$PROJECT_DIR$/ChainOfResponsibilityDP/ChainOfResponsibilityDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdapterDP/ClassAdapter/ClassAdapter.iml" filepath="$PROJECT_DIR$/AdapterDP/ClassAdapter/ClassAdapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/CommandDP/CommandDP.iml" filepath="$PROJECT_DIR$/CommandDP/CommandDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethodDP/FactoryMethodDP.iml" filepath="$PROJECT_DIR$/FactoryMethodDP/FactoryMethodDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/AbstractFactoryDP/FurnitureExample/FurnitureExample.iml" filepath="$PROJECT_DIR$/AbstractFactoryDP/FurnitureExample/FurnitureExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/IteratorDP/IteratorDP.iml" filepath="$PROJECT_DIR$/IteratorDP/IteratorDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdapterDP/ObjectAdapter/ObjectAdapter.iml" filepath="$PROJECT_DIR$/AdapterDP/ObjectAdapter/ObjectAdapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverDP/ObserverDP.iml" filepath="$PROJECT_DIR$/ObserverDP/ObserverDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrototypeDP/PrototypeDP.iml" filepath="$PROJECT_DIR$/PrototypeDP/PrototypeDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactoryDP/SimpleFactoryDP.iml" filepath="$PROJECT_DIR$/SimpleFactoryDP/SimpleFactoryDP.iml" />
