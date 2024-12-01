@@ -61,3 +61,10 @@ UML Diagram of Simple Factory
 
 ### 13. Adapter
 
+    a. Object Adapter Design Pattern
+
+![ObjectAdapterDP.drawio.png](uml%2FObjectAdapterDP.drawio.png)
+
+    b. Class Adapter Design Pattern
+![ClassAdapterDP.drawio.png](uml%2FClassAdapterDP.drawio.png)
+
