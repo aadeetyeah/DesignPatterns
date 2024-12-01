@@ -53,4 +53,11 @@ UML Diagram of Simple Factory
 
 ### 11. Template
 
+![TemplateDP.drawio.png](uml%2FTemplateDP.drawio.png)
+
 ### 12. Iterator
+
+## C. Structural Design Patterns
+
+### 13. Adapter
+
