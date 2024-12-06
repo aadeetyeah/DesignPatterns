@@ -68,3 +68,8 @@ UML Diagram of Simple Factory
     b. Class Adapter Design Pattern
 ![ClassAdapterDP.drawio.png](uml%2FClassAdapterDP.drawio.png)
 
+### 14. Decorator
+
+![DecoratorDP.drawio.png](uml%2FDecoratorDP.drawio.png)
+
+### 15. Bridge

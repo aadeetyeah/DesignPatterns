@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibilityDP/ChainOfResponsibilityDP.iml" filepath="$PROJECT_DIR$/ChainOfResponsibilityDP/ChainOfResponsibilityDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/AdapterDP/ClassAdapter/ClassAdapter.iml" filepath="$PROJECT_DIR$/AdapterDP/ClassAdapter/ClassAdapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/CommandDP/CommandDP.iml" filepath="$PROJECT_DIR$/CommandDP/CommandDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecoratorDP/DecoratorDP.iml" filepath="$PROJECT_DIR$/DecoratorDP/DecoratorDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethodDP/FactoryMethodDP.iml" filepath="$PROJECT_DIR$/FactoryMethodDP/FactoryMethodDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/AbstractFactoryDP/FurnitureExample/FurnitureExample.iml" filepath="$PROJECT_DIR$/AbstractFactoryDP/FurnitureExample/FurnitureExample.iml" />
