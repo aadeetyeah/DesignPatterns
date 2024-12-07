@@ -73,3 +73,5 @@ UML Diagram of Simple Factory
 ![DecoratorDP.drawio.png](uml%2FDecoratorDP.drawio.png)
 
 ### 15. Bridge
+
+![BridgeDP.drawio.png](uml%2FBridgeDP.drawio.png)

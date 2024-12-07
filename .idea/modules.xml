@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstractFactoryDP/AbstractFactoryDP.iml" filepath="$PROJECT_DIR$/AbstractFactoryDP/AbstractFactoryDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/AdapterDP/AdapterDP.iml" filepath="$PROJECT_DIR$/AdapterDP/AdapterDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BridgeDP/BridgeDP.iml" filepath="$PROJECT_DIR$/BridgeDP/BridgeDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderDP/BuilderDP.iml" filepath="$PROJECT_DIR$/BuilderDP/BuilderDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderDP/BuilderWithChainingDP/BuilderWithChainingDP.iml" filepath="$PROJECT_DIR$/BuilderDP/BuilderWithChainingDP/BuilderWithChainingDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibilityDP/ChainOfResponsibilityDP.iml" filepath="$PROJECT_DIR$/ChainOfResponsibilityDP/ChainOfResponsibilityDP.iml" />
