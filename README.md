@@ -75,3 +75,15 @@ UML Diagram of Simple Factory
 ### 15. Bridge
 
 ![BridgeDP.drawio.png](uml%2FBridgeDP.drawio.png)
+
+### 16. Composite
+
+![CompositeDP.drawio.png](uml%2FCompositeDP.drawio.png)
+
+### 17. Facade
+
+![FacadeDP.drawio.png](uml%2FFacadeDP.drawio.png)
+
+### 18. Proxy
+
+![ProxyDP.drawio.png](uml%2FProxyDP.drawio.png)
