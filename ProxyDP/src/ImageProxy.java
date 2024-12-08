@@ -1,7 +1,7 @@
 //Proxy class
 public class ImageProxy implements Image{
 
-    private RealImage realImage;
+    private Image realImage;
 
     private String fileName;
 
