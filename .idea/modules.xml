@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/AdapterDP/ObjectAdapter/ObjectAdapter.iml" filepath="$PROJECT_DIR$/AdapterDP/ObjectAdapter/ObjectAdapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverDP/ObserverDP.iml" filepath="$PROJECT_DIR$/ObserverDP/ObserverDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrototypeDP/PrototypeDP.iml" filepath="$PROJECT_DIR$/PrototypeDP/PrototypeDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyDP/ProxyDP.iml" filepath="$PROJECT_DIR$/ProxyDP/ProxyDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactoryDP/SimpleFactoryDP.iml" filepath="$PROJECT_DIR$/SimpleFactoryDP/SimpleFactoryDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonDP/SingletonDP.iml" filepath="$PROJECT_DIR$/SingletonDP/SingletonDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrategyDP/StrategyDP.iml" filepath="$PROJECT_DIR$/StrategyDP/StrategyDP.iml" />
