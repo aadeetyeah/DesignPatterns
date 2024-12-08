@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/CompositeDP/CompositeDP.iml" filepath="$PROJECT_DIR$/CompositeDP/CompositeDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/DecoratorDP/DecoratorDP.iml" filepath="$PROJECT_DIR$/DecoratorDP/DecoratorDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacadeDP/FacadeDP.iml" filepath="$PROJECT_DIR$/FacadeDP/FacadeDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethodDP/FactoryMethodDP.iml" filepath="$PROJECT_DIR$/FactoryMethodDP/FactoryMethodDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/AbstractFactoryDP/FurnitureExample/FurnitureExample.iml" filepath="$PROJECT_DIR$/AbstractFactoryDP/FurnitureExample/FurnitureExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/IteratorDP/IteratorDP.iml" filepath="$PROJECT_DIR$/IteratorDP/IteratorDP.iml" />
